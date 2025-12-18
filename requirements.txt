@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+joblib
+scikit-learn
+groq
+pydantic
+python-multipart
+python-dotenv
